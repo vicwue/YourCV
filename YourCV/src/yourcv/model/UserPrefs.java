@@ -1,4 +1,4 @@
-package yourcv.xing;
+package yourcv.model;
 
 import java.io.Serializable;
 import java.util.logging.Logger;
